@@ -3,4 +3,9 @@ puts "hello world"
 
 class Article
 
-end 
+end
+
+
+class Newsletter
+
+end
